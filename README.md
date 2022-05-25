@@ -3,8 +3,6 @@
 ---
 ✨ I'm a Full-stack Developer specialized in Web Development, I've exclusively been in the Javascript ecosystem (Node.js and React) for the last 3 years, and I got to love it 💓. I'm very keen to make the world a better place through programming, that is why in my last job I worked as a Front-end Coach at @Laboratoria 
 
-For my next journey, I'm very keen to join a warm, inspiring workspace with pasionate, talented people to learn from each other. 
-
 
 - 💬 Ask me about: Javascript, React, Node.js, Learning skills, How to get into Web Development
 - 📫 How to reach me: [@rauling_g](https://twitter.com/rauling_g), relaxedchild@gmail.com
