@@ -1,7 +1,7 @@
 <h3 align="center">Hi there 👋! I'm Raul Quispe</h3>
 
 ---
-✨ I'm a Full-stack Developer specialized in Web Development, I've exclusively been in the Javascript ecosystem (Node.js and React) for the last 3 years, and I got to love it 💓. I'm very keen to make the world a better place through programming, that is why in my last job I worked as a Front-end Coach at @Laboratoria 
+✨ I'm a software engineer specialized in Web Development, I've exclusively stood in the Javascript ecosystem working primarily with Node.js & React for the last 4 years. I'm very keen to make the world a better place through programming, that is why in my last job I worked as a Front-end Coach at @Laboratoria 
 
 
 - 💬 Ask me about: Javascript, React, Node.js, Learning skills, How to get into Web Development
