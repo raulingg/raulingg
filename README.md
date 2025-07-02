@@ -1,4 +1,4 @@
-<h3 align="center">Hi there 👋! I'm Raul Quispe</h3>
+<h3 align="center">Hi there 👋! I'm Raul Mendez</h3>
 
 ---
 ✨ I'm a software engineer specialized in Web Development, I stay in the Javascript ecosystem working primarily with Node.js & React for the last 5 years. I'm very keen to make the world a better place through programming
